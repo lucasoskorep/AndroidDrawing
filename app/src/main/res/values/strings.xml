@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">DrawingApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="options_undo">Undo</string>
+    <string name="options_redo">Redo</string>
+    <string name="options_filter">Filter</string>
+    <string name="options_load">Load</string>
+    <string name="options_save">Save</string>
+    <string name="options_share">Share</string>
+
+    <string name="filter_options_filter0">GreyScale</string>
+    <string name="filter_options_filter1">Invert</string>
+    <string name="filter_options_filter2">Sketch</string>
+    <string name="filter_options_filter3">Oil Paint</string>
+    <string name="filter_options_filter4">Tint</string>
+
+</resources>

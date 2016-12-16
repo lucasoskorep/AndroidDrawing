@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="save_button">Save + Quit</string>
+</resources>
